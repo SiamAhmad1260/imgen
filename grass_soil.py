@@ -5,7 +5,7 @@ from sine_generator import sin_data
 vertice = 30
 data = b''
 
-sine = sin_data(8, 3, vertice, 7, 6, 7)
+sine = sin_data(6, 3, vertice, 3, 2, 4)
 print(sine)
 for i in range(vertice):
     on_row = b'\x00'
