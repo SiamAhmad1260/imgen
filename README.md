@@ -1,5 +1,5 @@
-** a simple png generator **
+# A Simple PNG Generator
 
-this is a simple png generator made in python.
+This is a simple PNG generator made in Python. It takes a list of RGBA tuples, a width, and a height, and creates a PNG file with a given name.
 
-this uses a list of tuple data containing rgba, a width and a height and creates a png file with a given name. this can be used for generating pattern based images or any kind of png image given a proper rgba list input.
+It is useful for generating pattern-based images or any custom PNG image from RGBA data.
